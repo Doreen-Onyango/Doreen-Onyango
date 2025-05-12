@@ -1,7 +1,7 @@
 <!--Title @Doreen-Onyango-->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!!!++👋;I'm+Doreen+Onyango;A+software+developer+from+Zone01Kisumu;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!!!++👋;I'm+Doreen+Onyango;++A+full+stack+software+developer;++and+a+blockchain+enthusiast;++At+Zone01Kisumu;Explore+more!)
 
 </div>
 
@@ -14,10 +14,10 @@
 
 <!--Social Media-->
 <div align="center"> 
- <a href="https://www.youtube.com/@Doreen-Onyango" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
-<a href="https://www.tiktok.com/@dorah-myrah" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
-<a  href="https://Doreen-Onyango.github.io/"><img src="https://img.shields.io/badge/-blog-2b2b2b?style=for-the-badge&logo=jekyll&logoColor=fc0"></a>
- <a href="https://www.reddit.com/Doreen-Onyango" target="_blank"><img src="https://img.shields.io/badge/-Reddit-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/doreen-atieno-466104239/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px">
+</a>
+<a  href="https://dev.to/doreen_atieno_onyango/"><img src="https://img.shields.io/badge/-blog-2b2b2b?style=for-the-badge&logo=jekyll&logoColor=fc0"></a>
 </div>
   
 <!--Total Contributions--> 
